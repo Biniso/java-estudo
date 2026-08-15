@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class ex16 {
     public static void main (String[] args) {
 
         String nome, curso, turma;
@@ -19,3 +19,4 @@ public class Main {
 
     }
 }
+
