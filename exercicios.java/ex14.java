@@ -17,5 +17,7 @@ public class ex14 {
 
         System.out.printf("\nO troco é R$%d\n", troco);
 
+        read.close();
+
     }
 }

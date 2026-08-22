@@ -14,5 +14,7 @@ public class ex20 {
 
          System.out.print(word.charAt(0));
          System.out.println(word.charAt(word.length()-1));
+
+         read.close();
     }
 }

@@ -60,6 +60,8 @@ public class lampada {
         if(num != 3){
             luz.mostrarEstado();
         }
+
+        read.close();
         
     }
 }

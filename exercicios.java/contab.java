@@ -69,6 +69,8 @@ public class contab {
         }
 
         conta.mostrarSaldo();
+
+        read.close();
         
     }
 }

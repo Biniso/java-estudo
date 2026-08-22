@@ -91,6 +91,8 @@ public class ContaBancaria {
         
         conta1.mostrarSaldo();
         conta2.mostrarSaldo();
+
+        read.close();
         
     }
 }

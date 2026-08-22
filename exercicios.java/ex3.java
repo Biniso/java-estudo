@@ -17,5 +17,7 @@ public class ex3 {
 
         System.out.printf("\nFicha de %s \nCurso: %s\nTurma: %s\n\n",nome,curso,turma);
 
+        read.close();
+
     }
 }

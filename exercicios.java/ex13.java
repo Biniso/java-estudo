@@ -16,5 +16,7 @@ public class ex13 {
 
         System.out.printf("\nRestam %d horas, %d minutos e %d segundos\n", h, min, sec);
 
+        read.close();
+
     }
 }

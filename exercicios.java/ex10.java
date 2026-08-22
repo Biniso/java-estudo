@@ -19,5 +19,7 @@ public class ex10 {
         med = (n1 + n2 + n3)/3;
 
         System.out.printf("\nA media é %.2f\n", med);
+
+        read.close();
     }
 }

@@ -17,5 +17,7 @@ public class ex15 {
         consumo = km/l;
 
         System.out.printf("\nO consumo medio é de %.2f km/l\n", consumo);
+
+        read.close();
     }
 }

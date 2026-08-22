@@ -16,5 +16,7 @@ public class ex6 {
 
         System.out.printf("\n%s possui %d anos", nome, idade);
 
+        read.close();
+
     }
 }

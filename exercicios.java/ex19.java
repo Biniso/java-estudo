@@ -42,5 +42,6 @@ public class ex19 {
                 System.out.println("Falha");
                 break;
         }
+        read.close();
     }
 }

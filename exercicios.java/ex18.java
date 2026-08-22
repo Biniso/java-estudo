@@ -14,5 +14,7 @@ public class ex18 {
         nomes = nome.split(" ");
 
         System.out.println("Primeiras iniciais: " + nomes[0].charAt(0) + nomes[nomes.length-1].charAt(0));
+
+        read.close();
     }
 }

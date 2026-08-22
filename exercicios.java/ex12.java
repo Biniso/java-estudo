@@ -14,5 +14,7 @@ public class ex12 {
         F = C * 9 / 5 + 32;
 
         System.out.printf("\n%d graus Celsius é %.1f graus Fahrenheit\n", C, F);
+
+        read.close();
     }
 }

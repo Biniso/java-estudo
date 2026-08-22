@@ -43,6 +43,7 @@ public class circulo {
             default:
                 break;
         }
+        read.close();
         
     }
 }

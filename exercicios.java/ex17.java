@@ -13,5 +13,7 @@ public class ex17 {
         System.out.println("nome:"+ nome);
         System.out.println("nome maiusculo: "+ nome.toUpperCase());
         System.out.println("quantidade de letras: "+ nome.length());
+
+        read.close();
     }
 }
