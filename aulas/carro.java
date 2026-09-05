@@ -38,6 +38,10 @@ public class carro {
         System.out.println();
     }
 
+    public int getvelocidade(){
+        return velocidade;
+    }
+
     void mostrarDados(){
         System.out.println(); 
         System.out.println("Marca: " + marca);

@@ -25,7 +25,7 @@ public class Main {
         carro1.acelerar();
         carro1.acelerar();
         carro1.acelerar();
-        carro1.mostrarDados();
+        System.out.println(carro1.getvelocidade());
 
         System.out.println("Um carro entrou na sua frente do nada!");
         carro1.buzinar(); 
